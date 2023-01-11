@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/State-and-city-selector/static/css/main.4d4ad7b9.css",
+    "main.js": "/State-and-city-selector/static/js/main.f8c33969.js",
+    "static/js/787.737ee684.chunk.js": "/State-and-city-selector/static/js/787.737ee684.chunk.js",
+    "index.html": "/State-and-city-selector/index.html",
+    "main.4d4ad7b9.css.map": "/State-and-city-selector/static/css/main.4d4ad7b9.css.map",
+    "main.f8c33969.js.map": "/State-and-city-selector/static/js/main.f8c33969.js.map",
+    "787.737ee684.chunk.js.map": "/State-and-city-selector/static/js/787.737ee684.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d4ad7b9.css",
+    "static/js/main.f8c33969.js"
+  ]
+}
